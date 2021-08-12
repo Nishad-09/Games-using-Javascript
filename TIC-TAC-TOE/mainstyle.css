@@ -1,0 +1,11 @@
+.col-sm-6{
+    display:inline;
+  height: 200px;
+  border:1px solid black;
+  margin-right: 50px; 
+}
+
+#inline{
+  display:inline;
+    margin-left: 30px;
+}
